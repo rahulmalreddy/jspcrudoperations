@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<center><h1> Welcome JSP crud Operations</h1></center>
+<h1> Welcome JSP crud Operations</h1>
 
 <a href = "registerform.jsp">Add User</a> 
 
